@@ -1,0 +1,7 @@
+ibbslogin1 -->  "ibbslogin1||handle||password"
+chatcode1 -- > "chatcode1||message||handle"
+
+connect1 -->	these goto client only
+	get login info  "connect1||ok"
+	login good      "connect1||logonyes"
+	login bad	"connect1||logonno"
