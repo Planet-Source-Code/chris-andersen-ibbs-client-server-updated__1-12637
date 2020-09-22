@@ -1,0 +1,7 @@
+Skinnable
+Chat
+File
+Message Board
+External 'Door' support (games, etc.)
+Built-in browser
+Ability to link to other iBBS'
